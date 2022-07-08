@@ -1,0 +1,5 @@
+1. Ve a la ruta donde tengas instalado Steam
+2. Ve a la carpeta "skins" o créala si no la tienes
+3. Extrae la carpeta "MayorImagen" del zip dentro de la carpeta "skins"
+4. Abre el cliente o ciérralo y vuélvelo a abrir
+5. Ve a la parte de "Parámetros" > "Interfaz" y cambia el tema a "MayorImagen"
